@@ -1,0 +1,29 @@
+{
+  "experiences": [
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Weekly Reporting",
+      "content": "Timeframe: June 2025–Present. Built recurring SQL reporting workflows across sales, inventory, product, and customer data. Validated joins and metric logic, created weekly reporting tables, and used Tableau to communicate trends to business stakeholders."
+    },
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Promotion Performance Analysis",
+      "content": "Timeframe: June 2025–Present. Used Python and SQL to evaluate promotion performance across product categories, customer segments, and time periods. Compared baseline and promotional periods, summarized lift and impact, and presented findings to stakeholders."
+    },
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Data Quality Controls",
+      "content": "Timeframe: June 2025–Present. Created recurring checks for missing data, duplicate records, stale feeds, and inconsistent joins across reporting datasets. Used exception-based review to surface issues before reporting."
+    },
+    {
+      "organization": "Company B",
+      "title": "Analytics Intern — Operational Data Analysis",
+      "content": "Timeframe: June 2024–August 2024. Cleaned and validated operational data using Python and SQL. Built summary analyses to identify recurring quality issues and support process review."
+    },
+    {
+      "organization": "Project Name",
+      "title": "Subscription Analytics Project",
+      "content": "Timeframe: Spring 2025. Built a PostgreSQL and Python analytics workflow to track activation, retention, churn, and cohort behavior for a simulated product. Created a Tableau dashboard for monthly KPI monitoring."
+    }
+  ]
+}
