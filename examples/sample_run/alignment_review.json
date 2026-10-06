@@ -1,0 +1,21 @@
+{
+  "needs_revision": true,
+  "strengths": [
+    "Current role clearly connects SQL reporting tables, metric validation, Tableau reporting, and stakeholder communication to the job’s recurring product and customer reporting needs.",
+    "A distinct data-quality bullet shows proactive checks for missing records, duplicates, stale feeds, and inconsistent joins—strong evidence for reliable analytics datasets.",
+    "The project is explicitly labeled simulated and demonstrates activation, retention, churn, cohort analysis, and KPI dashboard experience without presenting it as production work.",
+    "The promotion bullet describes baseline-versus-promotional comparisons without mislabeling them randomized experiments."
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "issue": "The promotion analysis says only that performance and findings were summarized, leaving supported lift and impact measurement less visible. That is the closest work evidence to the role’s experiment-measurement and results-communication responsibilities.",
+      "recommendation": "Make the documented summary of promotional lift and impact more explicit, while retaining the baseline-versus-promotion framing. Do not describe the work as randomized A/B testing or a controlled experiment."
+    },
+    {
+      "severity": "low",
+      "issue": "The project omits its Spring 2025 date, although the experience bank supplies it. Dating the simulated project would make its place alongside the recent work history clearer.",
+      "recommendation": "Add Spring 2025 to the project heading, keeping its simulated status clear."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "needs_revision": true,
+  "strengths": [
+    "The current Data Analyst role is easy to identify, and the first bullet quickly establishes SQL reporting across sales, inventory, product, and customer data for weekly business reviews.",
+    "Separate bullets show Tableau communication, proactive data-quality checks, and promotion analysis, giving a screener several distinct examples of current analytics work.",
+    "The project is clearly labeled simulated while showing PostgreSQL, Python, Tableau, and activation and retention metrics relevant to the target role."
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "issue": "The Tableau bullet says the reports communicated “trends,” but does not connect them to the weekly business reviews described immediately above. On a fast scan, it reads more like a routine dashboard task than part of a useful reporting workflow.",
+      "recommendation": "Connect the Tableau reporting more clearly to the supported sales, inventory, product, or customer reporting context and its operations and merchandising audience. Keep the business purpose visible without inventing decisions or outcomes."
+    },
+    {
+      "severity": "low",
+      "issue": "The internship bullets give little sense of progression because “cleaned and validated operational data” echoes the current role’s data-quality work, while the internship’s process-review purpose is less prominent.",
+      "recommendation": "Give more emphasis to the supported analysis of recurring reporting-quality issues and its process-review purpose; keep routine cleaning detail only where it helps explain that work."
+    }
+  ]
+}

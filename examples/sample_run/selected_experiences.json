@@ -1,0 +1,52 @@
+{
+  "selected_experiences": [
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Weekly Business Reporting",
+      "relevance": [
+        "Recurring SQL workflows and reporting tables across product and customer data directly support the role’s need for reliable analytics datasets and regular reporting.",
+        "Validated joins and metric logic, then used Tableau to communicate trends to business stakeholders—evidence for trustworthy reporting and cross-functional communication."
+      ],
+      "priority": "high"
+    },
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Reporting Data Quality Controls",
+      "relevance": [
+        "Recurring checks for missing data, duplicates, stale feeds, and inconsistent joins directly address data-quality monitoring across reporting datasets.",
+        "Exception-based review surfaced issues before reporting, supporting the job’s emphasis on dependable KPI visibility."
+      ],
+      "priority": "high"
+    },
+    {
+      "organization": "Company A",
+      "title": "Data Analyst — Promotion Performance Analysis",
+      "relevance": [
+        "SQL and Python analysis of customer behavior across segments and time periods supports product and customer analysis.",
+        "Baseline-versus-promotion comparisons and stakeholder summaries provide transferable evidence for measuring and communicating impact, but do not establish experience with controlled experiments."
+      ],
+      "priority": "medium"
+    },
+    {
+      "organization": "Project Name",
+      "title": "Simulated Product Metrics Workflow and Dashboard",
+      "relevance": [
+        "The PostgreSQL and Python workflow and Tableau dashboard demonstrate direct practice tracking activation, retention, churn, and cohorts—product metrics not established by the work roles.",
+        "Its simulated setting makes it useful supporting evidence for product KPI monitoring, rather than a substitute for production product-analytics experience."
+      ],
+      "priority": "medium"
+    }
+  ],
+  "resume_strategy": {
+    "emphasize": [
+      "Anchor the resume in current SQL-based reporting, Tableau communication, and validation of product and customer metrics.",
+      "Show data-quality controls as a distinct contribution to reliable analytics datasets and recurring reports.",
+      "Use the simulated project to demonstrate activation and retention KPI familiarity, clearly identifying it as a project.",
+      "Present promotion analysis as impact measurement and stakeholder communication, without calling it a controlled experiment."
+    ],
+    "deemphasize": [
+      "The operational-data internship overlaps with stronger, more recent evidence of SQL, Python, and reporting-data validation.",
+      "Sales and inventory details beyond what is needed to explain the broader product, customer, and operational reporting work."
+    ]
+  }
+}
